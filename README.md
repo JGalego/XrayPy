@@ -32,7 +32,11 @@ $ python setup.py install
 
 ## Xray CLI Tool
 
-This CLI tools is still a work in progress.
+This CLI tool is still a work in progress.
+
+```sh
+$ xraycli import path/to/junit/xml/report
+```
 
 ## References
 
