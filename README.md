@@ -30,6 +30,10 @@ $ python setup.py install
 * Export test results from JIRA (/rest/raven/1.0/testruns)
 * Run JQL queries (/rest/api/2/search)
 
+## Xray CLI Tool
+
+This CLI tools is still a work in progress.
+
 ## References
 
 * <a href="https://confluence.xpand-addons.com/display/XRAY/REST+API">Xray's REST API</a>
